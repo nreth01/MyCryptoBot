@@ -1,5 +1,5 @@
 # MyCryptoBot
-The Bot trades crypto 24/7 on a Raspberry Pi 4
+Crypto Trading Bot working 24/7 on a Raspberry Pi 4
 
 
 ## Setup:
